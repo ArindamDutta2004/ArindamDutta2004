@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdutta2004&label=Profile%20views&color=0e75b6&style=flat" alt="arindamdutta2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindamdutta2004" alt="arindamdutta2004" /></a> </p>
-
 - 🔭 I’m currently working on [Kissan Helper](https://kissanhelper-user.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-eight-livid-95.vercel.app](https://personal-portfolio-eight-livid-95.vercel.app)
